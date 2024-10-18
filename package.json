@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://35.177.27.88:9980/mithuntechnologies/repository/nodejscicid/"
+    "registry": "http://3.107.192.215:7416/mithuntechnologies/repository/nodeJsCICD/"
   },
   
   "scripts": {
